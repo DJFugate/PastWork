@@ -1,2 +1,9 @@
-# PastWork
-Past school work/projects that I thought were interesting 
+# Past Work
+This GitHub repo contains some of my old school/free work that I thought was very interesting.
+
+## InventorySimulationShinyApp.R
+
+
+## MLB_Stats_Simulator.R
+
+
